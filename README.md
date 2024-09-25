@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maishamir&label=Profile%20views&color=0e75b6&style=flat" alt="maishamir" /> </p>
 
-- 🔭 I’m currently working on [Ensemble](https://github.com/maishamir/ensemble)
+- 🔭 I’m currently working on [my Pomodoro Timer]([https://github.com/maishamir/ensemble](https://github.com/maishamir/pomodoroTimer))
 
 - 🌱 I’m currently learning **NextJS, TypeScript, Tailwind**
 
