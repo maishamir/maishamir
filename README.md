@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **maisha.mir2014@gmail.com**
 
-- 📄 Know about my experiences: [Resume]([Resume](https://maishamir.github.io/assets/Maisha%20Mir%20-%20Resume-BSQoxSoe.pdf))
+- 📄 Know about my experiences: [Resume](https://maishamir.github.io/assets/Maisha%20Mir%20-%20Resume-BSQoxSoe.pdf)
 
 - ⚡ Fun fact **I love building anything tangible**
 
