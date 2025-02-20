@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my Pomodoro Timer](https://github.com/maishamir/pomodoroTimer)
 
-- 🌱 I’m currently learning **NextJS, TypeScript, Tailwind**
+- 🌱 I’m currently learning **OpenAI, UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://maishamir.github.io/](https://maishamir.github.io/)
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **maisha.mir2014@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://maishamir.github.io/assets/Maisha%20Mir%20-%20Resume-BSQoxSoe.pdf)
+- 📄 Learn about my experience: [Resume](https://maishamir.github.io/assets/Maisha%20Mir%20-%20Resume-BSQoxSoe.pdf)
 
-- ⚡ Fun fact **I love building anything tangible**
+- ⚡ Fun fact **I love tinkering!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
