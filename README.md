@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maishamir&label=Profile%20views&color=0e75b6&style=flat" alt="maishamir" /> </p>
 
-- 🔭 I’m currently working on [my Pomodoro Timer](https://github.com/maishamir/pomodoroTimer)
+- 🔭 I’m currently working on [my Hobby Tracker](https://github.com/maishamir/hobby-tracker)
 
 - 🌱 I’m currently learning **OpenAI, UI/UX**
 
